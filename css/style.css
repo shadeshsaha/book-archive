@@ -1,0 +1,20 @@
+/* error message style  */
+.error {
+  border: 2px solid tomato;
+  margin: 1rem;
+  padding: 1rem;
+  text-align: center;
+}
+/* result style  */
+.result {
+  background-color: #ddd;
+  text-align: center;
+  margin-bottom: 0.5rem;
+  font-size: 20px;
+  font-weight: bold;
+}
+span {
+  font-size: 20px;
+  font-weight: bold;
+  color: tomato;
+}
